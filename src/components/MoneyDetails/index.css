@@ -1,0 +1,36 @@
+.logo-image {
+  height: 50px;
+  width: 50px;
+  margin-right: 12px;
+  margin-left: 12px;
+}
+
+.money-details-container-item {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  width: 32%;
+  border-radius: 10px;
+}
+
+.container-one {
+  background-color: #ecfccb;
+  border: 1px solid #84cc16;
+}
+
+.container-two {
+  background-color: #cffafe;
+  border: 1px solid #06b6d4;
+}
+
+.container-three {
+  background-color: #ede9fe;
+  border: 1px solid #7c3aed;
+}
+
+.money-details-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-bottom: 25px;
+}
